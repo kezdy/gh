@@ -1,7 +1,11 @@
 
-###  2023-07-12T12:15:43+08:00
+###  2023-07-12T14:14:32+08:00
 ```bash
 # GitHubHosts Start
+140.82.113.3                  alive.github.com
+140.82.113.3                  live.github.com
+140.82.113.3                  central.github.com
+199.232.96.133                desktop.githubusercontent.com
 140.82.113.3                  assets-cdn.github.com
 199.232.96.133                camo.githubusercontent.com
 151.101.1.6                   github.map.fastly.net
